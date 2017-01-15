@@ -1,5 +1,16 @@
-Onetone Theme
-================
+Onetone Theme - People's Charter Foundation website
+===================================================
+
+Please note - this is a modified version of the Onetone WordPress theme for the People's Charter Foudation website (http://peoplescharter.org).  It is based on version 1.8.7.  
+
+The files which differ from the original theme are as follows:
+
+* style.css
+* footer.php
+* header-home.php
+* section-1.php
+
+-------------------------------------------------------------------------------------------
 
 Onetone is a one-page business theme based on Bootstrap framework and coded with HTML5/CSS3. All required information are displayed on a single page with clear order according to users' preferences. The basic sections designed for business purpose have already been built for you, such as services, about, gallery, clients, etc. There's also an extensive admin panel where unlimited sections can be easily added. Multiple options are available if you prefer to do some adjustments, such as changing background, parallax scrolling background, video background, Font Awesome Icons, uploading logo and  favicon,adding custom CSS and so on. The theme is also responsive, clean, and SEO optimized. Please note that with our updation, interface of your blog can grow up with futher more diversities.
 
